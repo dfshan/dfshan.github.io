@@ -1,14 +1,14 @@
 body {
   padding-bottom: 0px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 18px;
+  font-size: 22px;
 }
 
-h1 { font-size: 32px;}
-h2 { font-size: 28px;}
-h3 { font-size: 26px;}
-h4 { font-size: 24px;}
-h5 { font-size: 22px;}
+h1 { font-size: 36px;}
+h2 { font-size: 32px;}
+h3 { font-size: 28px;}
+h4 { font-size: 26px;}
+h5 { font-size: 24px;}
 h6 { font-size: 20px;}
 
 .theme-dropdown .dropdown-menu {
@@ -62,4 +62,14 @@ a.back-to-top {
 
 a:hover.back-to-top {
 	background-color: #000;
+}
+
+.pub {
+    /* font-style: italic; */
+    font-weight: bold;
+    text-align: right;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
 }
