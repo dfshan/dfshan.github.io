@@ -1,0 +1,20 @@
+.md-header__inner {
+  display: none;
+}
+
+.md-typeset h1 {
+  display: none;
+  font-size: 0.1em;
+  margin: 0;
+  padding: 0;
+}
+.md-typeset h2 {
+  /* margin-top: 0.6em; */
+  /* margin-bottom: 0.5em; */
+}
+.md-main__inner {
+  margin-top: 0.5em;
+}
+.md-content__inner {
+  padding-top: 0em;
+}
