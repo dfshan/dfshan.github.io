@@ -8,13 +8,36 @@
   margin: 0;
   padding: 0;
 }
+
 .md-typeset h2 {
   /* margin-top: 0.6em; */
   /* margin-bottom: 0.5em; */
 }
+
 .md-main__inner {
   margin-top: 0.5em;
 }
+
 .md-content__inner {
   padding-top: 0em;
+}
+
+.note p {
+  font-size: .8rem;
+}
+
+.note p {
+  margin-top: 0.5em;
+}
+
+.md-typeset .admonition, .md-typeset details {
+  margin-top: 0.5em;
+}
+
+.md-typeset .md-button {
+  font-size: .6rem;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }

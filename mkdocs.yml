@@ -1,7 +1,5 @@
 site_name: Danfeng Shan
 
-copyright: "Last Updated: 2023-10-12"
-
 theme:
   name: material
   # language: zh
@@ -17,14 +15,23 @@ theme:
   - header.autohide
   - toc.follow
 
-extra:
-  generator: false
+# extra:
+#   generator: false
+# extra:
+#   alternate:
+#     - name: English
+#       link: /en/
+#       lang: en
+#     - name: 中文
+#       link: /zh/
+#       lang: zh
 
 extra_css:
   - stylesheets/extra.css
 
 plugins:
   - search
+  - open-in-new-tab
   - git-revision-date-localized
 
 markdown_extensions:
@@ -39,6 +46,7 @@ markdown_extensions:
       # title: On this page
       permalink: true
       # permalink_title: Anchor link to this section for reference
+      toc_depth: 2
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem
