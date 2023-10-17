@@ -43,6 +43,10 @@
   padding-right: 0.5em;
 }
 
+img {
+  vertical-align: middle;
+}
+
 /* bootstrap styles */
 :root,
 [data-bs-theme=light] {
@@ -253,6 +257,14 @@
   border-radius: var(--bs-border-radius);
   max-width: 100%;
   height: auto;
+}
+
+.h-25 {
+  height: 25% !important;
+}
+
+.mh-25 {
+  max-height: 25% !important;
 }
 
 .row {
