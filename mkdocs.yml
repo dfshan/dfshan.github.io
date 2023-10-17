@@ -9,15 +9,23 @@ theme:
   icon:
     logo: fontawesome/solid/network-wired
   features:
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.top
-  - header.autohide
-  - toc.follow
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - header.autohide
+    - navigation.indexes
+    - navigation.tracking
+    - toc.follow
 
-# extra:
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dfshan
+    - icon: simple/googlescholar
+      link: https://scholar.google.com/citations?user=XLbHoCsAAAAJ&hl=zh-CN
 #   generator: false
-# extra:
 #   alternate:
 #     - name: English
 #       link: /en/
