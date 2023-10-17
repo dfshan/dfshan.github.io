@@ -6,7 +6,7 @@ hide:
 
 !!! note "Looking for self-motivated students"
 
-    I’m looking for self-motivated Undergraduate/Master/Ph.D students to work with me.
+    I’m looking for self-motivated Ph.D./Master/Undergraduate students to work with me.
     If you are interested in my research, feel free to contact me.
 
 
@@ -14,7 +14,7 @@ hide:
 I am an associate professor at School of Computer Science and Technology,
 Xi'an Jiaotong University.
 I received my B.E. degree from Xi'an Jiaotong University in 2013,
-and Ph.D. degree in 2018 from Tsinghua University.
+and Ph.D. degree from Tsinghua University in 2018.
 <!-- My research interests include data center networking and congestion control. -->
 
 ## Research
