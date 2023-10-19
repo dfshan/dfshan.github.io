@@ -10,6 +10,7 @@ hide:
 - **Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks**  
 <u>Danfeng Shan</u>, Yuqi Liu, Tong Zhang, Yifan Liu, Yazhe Tang, Hao Li, Peng Zhang  
 IEEE ICDCS 2023  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10272497){.md-button}
 [:material-presentation-play: Slides](assets/slides/icdcs23-dsh-slides.pdf){.md-button}
 
 - **Burst can be Harmless: Achieving Line-rate Software Traffic Shaping by Inter-flow Batching**  

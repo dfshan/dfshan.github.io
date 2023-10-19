@@ -24,7 +24,8 @@ and Ph.D. degree from Tsinghua University in 2018.
 - Traffic Management
 
 ### Selected Publications ([Full List](publications.md))
-- Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks, IEEE ICDCS 2023
+- [Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks](
+https://ieeexplore.ieee.org/abstract/document/10272497), IEEE ICDCS 2023
 - [Enforcing Fairness in the Traffic Policer among Heterogeneous Congestion Control Algorithms](
   https://ieeexplore.ieee.org/document/10154587),
   IEEE/ACM ToN 2023
