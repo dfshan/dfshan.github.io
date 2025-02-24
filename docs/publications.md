@@ -6,6 +6,28 @@ hide:
 
 ## Publications
 
+### 2025
+- **Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches**  
+<u>Danfeng Shan</u>, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren  
+ACM EuroSys 2025
+
+### 2024
+- **Enforcing Fairness in the Traffic Policer Among Heterogeneous Congestion Control Algorithms**  
+<u>Danfeng Shan</u>, Linbing Jiang, Peng Zhang, Wanchun Jiang, Hao Li, Yazhe Tang, Fengyuan Ren  
+IEEE/ACM Transactions on Networking 2024  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/document/10154587){.md-button}
+
+- **Improvement of Copa: Behaviors and Friendliness of Delay-Based Congestion Control Algorithm**  
+Wanchun Jiang, Haoyang Li, Jia Wu, Zheyuan Liu, Jiawei Huang, <u>Danfeng Shan</u>, Jianxin Wang  
+IEEE/ACM Transactions on Networking 2023  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10163771){.md-button}
+
+- **Programming Network Stack for Physical Middleboxes and Virtualized Network Functions**  
+Hao Li, Yihan Dang, Guangda Sun, Changhao Wu, Peng Zhang, <u>Danfeng Shan</u>, Tian Pan, Chengchen Hu  
+IEEE/ACM Transactions on Networking 2023  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10273850){.md-button}
+
+
 ### 2023
 - **Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks**  
 <u>Danfeng Shan</u>, Yuqi Liu, Tong Zhang, Yifan Liu, Yazhe Tang, Hao Li, Peng Zhang  
@@ -19,21 +41,6 @@ IEEE INFOCOM 2023
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10229082){.md-button}
 [:octicons-file-code-16: Code](https://github.com/ants-xjtu/FlowBundler){.md-button}
 [:material-presentation-play: Slides](assets/slides/infocom23-flowbundler-slides.pdf){.md-button}
-
-- **Enforcing Fairness in the Traffic Policer Among Heterogeneous Congestion Control Algorithms**  
-<u>Danfeng Shan</u>, Linbing Jiang, Peng Zhang, Wanchun Jiang, Hao Li, Yazhe Tang, Fengyuan Ren  
-IEEE/ACM Transactions on Networking 2023  
-[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/document/10154587){.md-button}
-
-- **Improvement of Copa: Behaviors and Friendliness of Delay-Based Congestion Control Algorithm**  
-Wanchun Jiang, Haoyang Li, Jia Wu, Zheyuan Liu, Jiawei Huang, <u>Danfeng Shan</u>, Jianxin Wang  
-IEEE/ACM Transactions on Networking 2023  
-[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10163771){.md-button}
-
-- **Programming Network Stack for Physical Middleboxes and Virtualized Network Functions**  
-Hao Li, Yihan Dang, Guangda Sun, Changhao Wu, Peng Zhang, <u>Danfeng Shan</u>, Tian Pan, Chengchen Hu  
-IEEE/ACM Transactions on Networking 2023  
-[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10273850){.md-button}
 
 - **Reinforcement-Learning Based Preload Strategy for Short Video**  
 Zhicheng Ren, Yongxin Shan, Wanchun Jiang, Yijing Shan, <u>Danfeng Shan</u>, Jianxin Wang  

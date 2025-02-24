@@ -24,6 +24,7 @@ and Ph.D. degree from Tsinghua University in 2018.
 - Traffic Management
 
 ### Selected Publications ([Full List](publications.md))
+- Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches, ACM EuroSys 2025
 - [Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks](
 https://ieeexplore.ieee.org/abstract/document/10272497), IEEE ICDCS 2023
 - [Enforcing Fairness in the Traffic Policer among Heterogeneous Congestion Control Algorithms](
