@@ -10,6 +10,8 @@ hide:
 - **Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches**  
 <u>Danfeng Shan</u>, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren  
 ACM EuroSys 2025  
+[:fontawesome-regular-file-pdf: PDF](https://dl.acm.org/doi/10.1145/3689031.3717495){.md-button}
+[:material-presentation-play: Slides](assets/slides/eurosys25-occamy-slides.pdf){.md-button}
 [:octicons-file-code-16: Code](https://github.com/ants-xjtu/Occamy){.md-button}
 
 ### 2024
