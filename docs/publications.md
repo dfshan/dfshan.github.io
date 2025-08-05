@@ -7,6 +7,14 @@ hide:
 ## Publications
 
 ### 2025
+- **Fast and Accurate Software Traffic Shaping with Inter-flow Batching**  
+<u>Danfeng Shan</u>, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren  
+IEEE Transactions on Networking 2025  
+
+- **Efficient Headroom Allocation with Two-level Flow Control for Lossless Datacenter Networks**  
+<u>Danfeng Shan</u>, Jinchao Ma, Yunguang Li, Boxuan Hu, Tong Zhang, Yazhe Tang, Hao Li, Jinyu Wang, Peng Zhang  
+IEEE Transactions on Networking 2025  
+
 - **Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches**  
 <u>Danfeng Shan</u>, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren  
 ACM EuroSys 2025  

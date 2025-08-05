@@ -24,6 +24,8 @@ and Ph.D. degree from Tsinghua University in 2018.
 - Traffic Management
 
 ### Selected Publications ([Full List](publications.md))
+- Fast and Accurate Software Traffic Shaping with Inter-flow Batching, IEEE ToN 2025
+- Efficient Headroom Allocation with Two-level Flow Control for Lossless Datacenter Networks, IEEE ToN 2025
 - [Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches](
 https://dl.acm.org/doi/10.1145/3689031.3717495), ACM EuroSys 2025
 - [Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks](
