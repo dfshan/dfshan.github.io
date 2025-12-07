@@ -12,7 +12,7 @@ Qingnan Wang, Jinnuo Du, Fangzhou Chen and <u>Danfeng Shan*</u>
 IEEE ICA3PP 2025  
 
 - **基于传输层信息的视频码率自适应算法**  
-Fangzhou Chen, Qingnan Wang, <u>Danfeng Shan*</u>  
+陈方舟, 王清楠, <u>单丹枫*</u>  
 计算机研究与发展, 2025  
 [:fontawesome-regular-file-pdf: PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440909.pdf){.md-button}
 
