@@ -24,15 +24,19 @@ and Ph.D. degree from Tsinghua University in 2018.
 - Traffic Management
 
 ### Selected Publications ([Full List](publications.md))
-- Fast and Accurate Software Traffic Shaping with Inter-flow Batching, IEEE ToN 2025
-- Efficient Headroom Allocation with Two-level Flow Control for Lossless Datacenter Networks, IEEE ToN 2025
+- [Fast and Accurate Software Traffic Shaping With Inter-Flow Batching](
+https://ieeexplore.ieee.org/abstract/document/11217924/
+), IEEE ToN 2025
+- [Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks](
+https://ieeexplore.ieee.org/abstract/document/11131478
+), IEEE ToN 2025
 - [Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches](
 https://dl.acm.org/doi/10.1145/3689031.3717495), ACM EuroSys 2025
-- [Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks](
-https://ieeexplore.ieee.org/abstract/document/10272497), IEEE ICDCS 2023
 - [Enforcing Fairness in the Traffic Policer among Heterogeneous Congestion Control Algorithms](
   https://ieeexplore.ieee.org/document/10154587),
-  IEEE/ACM ToN 2023
+  IEEE/ACM ToN 2024
+- [Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks](
+https://ieeexplore.ieee.org/abstract/document/10272497), IEEE ICDCS 2023
 - [Burst can be Harmless: Achieving Line-rate Software Traffic Shaping by Inter-flow Batching](
   https://ieeexplore.ieee.org/abstract/document/10229082),
   IEEE INFOCOM 2023

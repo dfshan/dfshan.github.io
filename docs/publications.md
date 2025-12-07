@@ -7,13 +7,25 @@ hide:
 ## Publications
 
 ### 2025
-- **Fast and Accurate Software Traffic Shaping with Inter-flow Batching**  
+- **Ditto: A Flexible Transmission Control Mechanism for Diverse User Demands and Network Conditions**  
+Qingnan Wang, Jinnuo Du, Fangzhou Chen and <u>Danfeng Shan*</u>  
+IEEE ICA3PP 2025  
+
+- **Adaptive Video Streaming Based on Transport Layer Information**  
+Fangzhou Chen, Qingnan Wang, <u>Danfeng Shan*</u>  
+Journal of Computer Research and Development  
+[:fontawesome-regular-file-pdf: PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440909.pdf){.md-button}
+
+- **Fast and Accurate Software Traffic Shaping With Inter-Flow Batching**  
 <u>Danfeng Shan</u>, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren  
 IEEE Transactions on Networking 2025  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11217924/){.md-button}
+[:octicons-file-code-16: Code](https://github.com/ants-xjtu/FlowBundler){.md-button}
 
-- **Efficient Headroom Allocation with Two-level Flow Control for Lossless Datacenter Networks**  
+- **Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks**  
 <u>Danfeng Shan</u>, Jinchao Ma, Yunguang Li, Boxuan Hu, Tong Zhang, Yazhe Tang, Hao Li, Jinyu Wang, Peng Zhang  
 IEEE Transactions on Networking 2025  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11131478){.md-button}
 
 - **Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches**  
 <u>Danfeng Shan</u>, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren  
