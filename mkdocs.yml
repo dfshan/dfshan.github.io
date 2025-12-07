@@ -40,6 +40,16 @@ extra_css:
 plugins:
   - search
   - open-in-new-tab
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 中文
+          build: true
   - git-revision-date-localized
 
 markdown_extensions:
