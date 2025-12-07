@@ -1,16 +1,21 @@
 site_name: Danfeng Shan
 
+nav:
+  - Home: index.md
+  - Publications: publications.md
+  - Photos: activities.md
+
 theme:
   name: material
-  # language: zh
-  language: en
+  language: zh
+  # language: en
   custom_dir: overrides
   favicon: assets/favicon.png
   icon:
     logo: fontawesome/solid/network-wired
   features:
-    - navigation.instant
-    - navigation.instant.progress
+    # - navigation.instant
+    # - navigation.instant.progress
     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
@@ -37,19 +42,30 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/extra.js
+
 plugins:
   - search
   - open-in-new-tab
   - i18n:
       docs_structure: suffix
+      reconfigure_material: true
+      reconfigure_search: true
       languages:
         - locale: en
-          default: true
           name: English
+          site_name: "Danfeng Shan @ XJTU"
+          default: true
           build: true
         - locale: zh
           name: 中文
           build: true
+          site_name: "单丹枫 @ XJTU"
+          nav_translations:
+            Home: 主页
+            Publications: 论文发表
+            Photos: 团队照片
   - git-revision-date-localized
 
 markdown_extensions:
