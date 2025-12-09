@@ -7,14 +7,12 @@ hide:
 ## Publications
 
 ### 2025
-- **Ditto: A Flexible Transmission Control Mechanism for Diverse User Demands and Network Conditions**  
-Qingnan Wang, Jinnuo Du, Fangzhou Chen and <u>Danfeng Shan*</u>  
-IEEE ICA3PP 2025  
-
-- **Adaptive Video Streaming Based on Transport Layer Information**  
-Fangzhou Chen, Qingnan Wang, <u>Danfeng Shan*</u>  
-Journal of Computer Research and Development  
-[:fontawesome-regular-file-pdf: PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440909.pdf){.md-button}
+- **Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches**  
+<u>Danfeng Shan</u>, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren  
+ACM EuroSys 2025  
+[:fontawesome-regular-file-pdf: PDF](https://dl.acm.org/doi/10.1145/3689031.3717495){.md-button}
+[:material-presentation-play: Slides](assets/slides/eurosys25-occamy-slides.pdf){.md-button}
+[:octicons-file-code-16: Code](https://github.com/ants-xjtu/Occamy){.md-button}
 
 - **Fast and Accurate Software Traffic Shaping With Inter-Flow Batching**  
 <u>Danfeng Shan</u>, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren  
@@ -27,12 +25,29 @@ IEEE Transactions on Networking 2025
 IEEE Transactions on Networking 2025  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11131478){.md-button}
 
-- **Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches**  
-<u>Danfeng Shan</u>, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren  
-ACM EuroSys 2025  
-[:fontawesome-regular-file-pdf: PDF](https://dl.acm.org/doi/10.1145/3689031.3717495){.md-button}
-[:material-presentation-play: Slides](assets/slides/eurosys25-occamy-slides.pdf){.md-button}
-[:octicons-file-code-16: Code](https://github.com/ants-xjtu/Occamy){.md-button}
+- **Teaching to Fish Rather Than Giving a Fish: The Concentrator Method of Teaching Classic Congestion Control With Learning-Based Module**  
+Haoyang Li, Wanchun Jiang\*, Jie Wang, Ying Wang, Jiawei Huang, <u>Danfeng Shan\*</u>, Jianxin Wang  
+IEEE Transactions on Mobile Computing  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10989755/){.md-button}
+
+- **Ditto: A Flexible Transmission Control Mechanism for Diverse User Demands and Network Conditions**  
+Qingnan Wang, Jinnuo Du, Fangzhou Chen and <u>Danfeng Shan*</u>  
+IEEE ICA3PP 2025  
+
+- **Adaptive Video Streaming Based on Transport Layer Information**  
+Fangzhou Chen, Qingnan Wang, <u>Danfeng Shan*</u>  
+Journal of Computer Research and Development  
+[:fontawesome-regular-file-pdf: PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440909.pdf){.md-button}
+
+- **Bandwidth Prediction Within Playback-Time of Buffer Duration Based on Frame-Level Stable Segment for Live Streaming**  
+Jialiang Chen, Xianshi Su, Wanchun Jiang, <u>Danfeng Shan</u>  
+WASA 2025  
+[:fontawesome-regular-file-pdf: PDF](https://link.springer.com/chapter/10.1007/978-981-96-8728-2_17){.md-button}
+
+- **Unleashing the Power of Visual Foundation Models for Generalizable Semantic Segmentation**  
+PeiYuan Tang, Xiaodong Zhang, Chunze Yang, Haoran Yuan, Jun Sun, <u>Danfeng Shan</u>, Zijiang James Yang  
+AAAI 2025  
+[:fontawesome-regular-file-pdf: PDF](https://ojs.aaai.org/index.php/AAAI/article/view/34295/36450){.md-button}
 
 ### 2024
 - **Enforcing Fairness in the Traffic Policer Among Heterogeneous Congestion Control Algorithms**  
