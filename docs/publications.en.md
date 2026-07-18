@@ -5,11 +5,32 @@ hide:
 ---
 
 ## Publications
+### 2026
+- **Revisiting Preemptive Buffer Management for Modern Datacenter Switch Chips**  
+<u>Danfeng Shan</u>, Jinchao Ma, Jinyu Wang, Yunguang Li, Yuxuan Li, Zeyu Liang, Zicheng Xu, Hao Li, Zhenxing Zhang, Nan Li, Wanchun Jiang, Fengyuan Ren  
+IEEE Transactions on Computers  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11596554){.md-button}
+[:octicons-file-code-16: Code](https://github.com/ants-xjtu/Occamy){.md-button}
+
+- **Nüwa: A Generative Control Plane for AI Network Simulation**  
+Wenkai Li, Ran Shu, Peng Zhang, Yiren Zhao, <u>Danfeng Shan</u>, Yongqiang Xiong  
+ACM SIGCOMM 2026  
+
+- **CCC: Re-architecting Delay-based Congestion Control in Datacenter Networks**  
+Wanchun Jiang, Haoyang Li, Kai Wang, Yujie Hu, Xiao Han, <u>Danfeng Shan\*</u>, Fengyuan Ren, Jiawei Huang, Jianxin Wang  
+USENIX NSDI 2026  
+[:fontawesome-regular-file-pdf: PDF](https://www.usenix.org/system/files/nsdi26-jiang.pdf){.md-button}
+
+- **REAL: Emulating Control Plane at Simulator's Cost**  
+Ze Xia, Hao Li, Jinyu Fu, Xin Wan, Yihan Dang, <u>Danfeng Shan</u>, Li Chen, and Peng Zhang  
+USENIX NSDI 2026  
+[:fontawesome-regular-file-pdf: PDF](https://www.usenix.org/system/files/nsdi26-xia.pdf){.md-button}
+
 
 ### 2025
 - **Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches**  
 <u>Danfeng Shan</u>, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren  
-ACM EuroSys 2025  
+EuroSys 2025  
 [:fontawesome-regular-file-pdf: PDF](https://dl.acm.org/doi/10.1145/3689031.3717495){.md-button}
 [:material-presentation-play: Slides](assets/slides/eurosys25-occamy-slides.pdf){.md-button}
 [:octicons-file-code-16: Code](https://github.com/ants-xjtu/Occamy){.md-button}
@@ -33,6 +54,7 @@ IEEE Transactions on Mobile Computing
 - **Ditto: A Flexible Transmission Control Mechanism for Diverse User Demands and Network Conditions**  
 Qingnan Wang, Jinnuo Du, Fangzhou Chen and <u>Danfeng Shan*</u>  
 IEEE ICA3PP 2025  
+[:fontawesome-regular-file-pdf: PDF](https://link.springer.com/chapter/10.1007/978-981-95-8408-6_26){.md-button}
 
 - **Adaptive Video Streaming Based on Transport Layer Information**  
 Fangzhou Chen, Qingnan Wang, <u>Danfeng Shan*</u>  

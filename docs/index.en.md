@@ -18,14 +18,20 @@ and Ph.D. degree from Tsinghua University in 2018.
 - Traffic Management for High-speed Switches
 
 ### Selected Publications ([Full List](publications.md))
+- [Revisiting Preemptive Buffer Management for Modern Datacenter Switch Chips](
+https://ieeexplore.ieee.org/abstract/document/11596554
+), IEEE TC 2026
+- [CCC: Re-architecting Delay-based Congestion Control in Datacenter Networks](
+https://www.usenix.org/system/files/nsdi26-jiang.pdf
+), NSDI 2026
 - [Fast and Accurate Software Traffic Shaping With Inter-Flow Batching](
-https://ieeexplore.ieee.org/abstract/document/11217924/
+https://ieeexplore.ieee.org/abstract/document/11217924
 ), IEEE ToN 2025
 - [Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks](
 https://ieeexplore.ieee.org/abstract/document/11131478
 ), IEEE ToN 2025
 - [Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches](
-https://dl.acm.org/doi/10.1145/3689031.3717495), ACM EuroSys 2025
+https://dl.acm.org/doi/10.1145/3689031.3717495), EuroSys 2025
 - [Enforcing Fairness in the Traffic Policer among Heterogeneous Congestion Control Algorithms](
   https://ieeexplore.ieee.org/document/10154587),
   IEEE/ACM ToN 2024
@@ -60,7 +66,5 @@ https://ieeexplore.ieee.org/abstract/document/10272497), IEEE ICDCS 2023
   IEEE JSAC 2013
 
 ## Teaching
-- [Frontier of Computer Networks](https://www.xueyinonline.com/detail/251334735) (Spring 2025)
-- [Introduction to Computer Systems](https://xjtu-ics.github.io) (Spring 2025)
-- [Introduction to Computer Systems](https://ics.dfshan.net) (Spring 2024)
-- [Introduction to Computer Systems](http://xgw.dfshan.net:3023/) (Spring 2023)
+- [Frontier of Computer Networks](https://www.xueyinonline.com/detail/251334735) (Spring 2025, 2026)
+- [Introduction to Computer Systems](https://xjtu-ics.github.io) (Spring 2023-2026)
