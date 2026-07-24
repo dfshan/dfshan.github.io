@@ -57,7 +57,8 @@ IEEE Transactions on Mobile Computing
 
 - **Ditto: A Flexible Transmission Control Mechanism for Diverse User Demands and Network Conditions**  
 Qingnan Wang, Jinnuo Du, Fangzhou Chen and <u>Danfeng Shan*</u>  
-IEEE ICA3PP 2025  
+ICA3PP 2025  
+[:fontawesome-regular-file-pdf: PDF](https://link.springer.com/chapter/10.1007/978-981-95-8408-6_26){.md-button}
 
 - **基于传输层信息的视频码率自适应算法**  
 陈方舟, 王清楠, <u>单丹枫*</u>  
