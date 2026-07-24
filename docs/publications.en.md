@@ -5,6 +5,12 @@ hide:
 ---
 
 ## Publications
+### 2027
+- **Revisiting Network Support for Packet-level Load-balancing in RoCE**  
+Jinchao Ma, Ran Shu, <u>Danfeng Shan\*</u>, Wenxue Cheng, Jinnuo Du, Zhixiong Niu, Peng Zhang, Yongqiang Xiong  
+USENIX NSDI 2027 (to appear)  
+
+
 ### 2026
 - **Revisiting Preemptive Buffer Management for Modern Datacenter Switch Chips**  
 <u>Danfeng Shan</u>, Jinchao Ma, Jinyu Wang, Yunguang Li, Yuxuan Li, Zeyu Liang, Zicheng Xu, Hao Li, Zhenxing Zhang, Nan Li, Wanchun Jiang, Fengyuan Ren  

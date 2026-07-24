@@ -9,10 +9,10 @@ template: with-header.html
 单丹枫， 西安交通大学副教授，博士生/硕士生导师。
 2018年毕业于清华大学计算机科学与技术系获工学博士学位，
 2013年毕业于西安交通大学计算机科学与技术系获工学学士学位。
-长期致力于数据中心网络、高速转发芯片缓存管理等研究，
-在ACM EuroSys、IEEE INFOCOM、IEEE/ACM ToN等国际著名会议和期刊上发表论文30余篇。
+长期致力于数据中心网络、高速转发芯片流量管理等研究，
+在USENIX NSDI, ACM EuroSys、IEEE INFOCOM、IEEE/ACM ToN等国际著名会议和期刊上发表论文30余篇。
 主持国家自然科学基金项目2项，参与国家重点研发青年科学家项目1项。
-担任IEEE MASS (2024-2025)、AAAI 2026、INCAS 2025等国际会议的技术程序委员会委员，
+担任IEEE/ACM IWQoS (2026), IEEE MASS (2024-2025)、AAAI (2026-2027)、INCAS 2025等国际会议的技术程序委员会委员，
 以及中国计算机学会互联网专委会委员和华为数据通信产品线顾问。
 获微软亚洲研究院铸星学者、华为优秀技术合作项目奖、清华大学优秀博士学位论文、清华大学计算机系优秀博士毕业生、
 西安交通大学优秀学生标兵等荣誉。
@@ -23,9 +23,10 @@ template: with-header.html
 ## 学术研究
 ### 研究方向
 - 数据中心网络
-- 高速转发芯片缓存管理
+- 高速转发芯片流量管理
 
 ### 代表性论文 ([完整列表](publications.md))
+- Revisiting Network Support for Packet-level Load-balancing in RoCE, USENIX 2027 (to appear)
 - [Revisiting Preemptive Buffer Management for Modern Datacenter Switch Chips](
 https://ieeexplore.ieee.org/abstract/document/11596554
 ), IEEE TC 2026
@@ -90,9 +91,9 @@ https://ieeexplore.ieee.org/abstract/document/10272497), IEEE ICDCS 2023
 - 李雨轩, 2026级硕士生
 
 ### 已毕业
-- 李同学, 2023级硕士生，毕业去向：腾讯
-- 王同学, 2023级硕士生，毕业去向：腾讯
-- 陈同学, 2023级硕士生，毕业去向：阿里巴巴
+- 李同学, 2026届硕士生，毕业去向：腾讯
+- 王同学, 2026届硕士生，毕业去向：腾讯
+- 陈同学, 2026届硕士生，毕业去向：阿里巴巴
 - 杨同学, 2025届硕士生，毕业去向：字节跳动
 - 温同学, 2025届硕士生，毕业去向：国家某直属部委
 - 彭同学, 2025届硕士生，毕业去向：腾讯
