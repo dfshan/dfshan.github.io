@@ -26,7 +26,7 @@ template: with-header.html
 - 高速转发芯片流量管理
 
 ### 代表性论文 ([完整列表](publications.md))
-- Revisiting Network Support for Packet-level Load-balancing in RoCE, USENIX 2027 (to appear)
+- Revisiting Network Support for Packet-level Load-balancing in RoCE, USENIX NSDI 2027 (to appear)
 - [Revisiting Preemptive Buffer Management for Modern Datacenter Switch Chips](
 https://ieeexplore.ieee.org/abstract/document/11596554
 ), IEEE TC 2026

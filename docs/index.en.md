@@ -18,7 +18,7 @@ and Ph.D. degree from Tsinghua University in 2018.
 - Traffic Management for High-speed Switches
 
 ### Selected Publications ([Full List](publications.md))
-- Revisiting Network Support for Packet-level Load-balancing in RoCE, USENIX 2027  (to appear)
+- Revisiting Network Support for Packet-level Load-balancing in RoCE, USENIX NSDI 2027  (to appear)
 - [Revisiting Preemptive Buffer Management for Modern Datacenter Switch Chips](
 https://ieeexplore.ieee.org/abstract/document/11596554
 ), IEEE TC 2026
