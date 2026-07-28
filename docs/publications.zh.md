@@ -31,6 +31,17 @@ Ze Xia, Hao Li, Jinyu Fu, Xin Wan, Yihan Dang, <u>Danfeng Shan</u>, Li Chen, and
 USENIX NSDI 2026  
 [:fontawesome-regular-file-pdf: PDF](https://www.usenix.org/system/files/nsdi26-xia.pdf){.md-button}
 
+- **Fast and Accurate Software Traffic Shaping With Inter-Flow Batching**  
+<u>Danfeng Shan</u>, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren  
+IEEE Transactions on Networking 2026  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11217924/){.md-button}
+[:octicons-file-code-16: Code](https://github.com/ants-xjtu/FlowBundler){.md-button}
+
+- **Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks**  
+<u>Danfeng Shan</u>, Jinchao Ma, Yunguang Li, Boxuan Hu, Tong Zhang, Yazhe Tang, Hao Li, Jinyu Wang, Peng Zhang  
+IEEE Transactions on Networking 2026  
+[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11131478){.md-button}
+
 ### 2025
 - **Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches**  
 <u>Danfeng Shan</u>, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren  
@@ -38,17 +49,6 @@ EuroSys 2025
 [:fontawesome-regular-file-pdf: PDF](https://dl.acm.org/doi/10.1145/3689031.3717495){.md-button}
 [:material-presentation-play: Slides](assets/slides/eurosys25-occamy-slides.pdf){.md-button}
 [:octicons-file-code-16: Code](https://github.com/ants-xjtu/Occamy){.md-button}
-
-- **Fast and Accurate Software Traffic Shaping With Inter-Flow Batching**  
-<u>Danfeng Shan</u>, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren  
-IEEE Transactions on Networking 2025  
-[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11217924/){.md-button}
-[:octicons-file-code-16: Code](https://github.com/ants-xjtu/FlowBundler){.md-button}
-
-- **Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks**  
-<u>Danfeng Shan</u>, Jinchao Ma, Yunguang Li, Boxuan Hu, Tong Zhang, Yazhe Tang, Hao Li, Jinyu Wang, Peng Zhang  
-IEEE Transactions on Networking 2025  
-[:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11131478){.md-button}
 
 - **Teaching to Fish Rather Than Giving a Fish: The Concentrator Method of Teaching Classic Congestion Control With Learning-Based Module**  
 Haoyang Li, Wanchun Jiang\*, Jie Wang, Ying Wang, Jiawei Huang, <u>Danfeng Shan\*</u>, Jianxin Wang  

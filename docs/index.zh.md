@@ -35,10 +35,10 @@ https://www.usenix.org/system/files/nsdi26-jiang.pdf
 ), NSDI 2026
 - [Fast and Accurate Software Traffic Shaping With Inter-Flow Batching](
 https://ieeexplore.ieee.org/abstract/document/11217924/
-), IEEE ToN 2025
+), IEEE ToN 2026
 - [Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks](
 https://ieeexplore.ieee.org/abstract/document/11131478
-), IEEE ToN 2025
+), IEEE ToN 2026
 - [Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches](
 https://dl.acm.org/doi/10.1145/3689031.3717495), EuroSys 2025
 - [Enforcing Fairness in the Traffic Policer among Heterogeneous Congestion Control Algorithms](
