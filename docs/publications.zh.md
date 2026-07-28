@@ -52,7 +52,7 @@ EuroSys 2025
 
 - **Teaching to Fish Rather Than Giving a Fish: The Concentrator Method of Teaching Classic Congestion Control With Learning-Based Module**  
 Haoyang Li, Wanchun Jiang\*, Jie Wang, Ying Wang, Jiawei Huang, <u>Danfeng Shan\*</u>, Jianxin Wang  
-IEEE Transactions on Mobile Computing  
+IEEE Transactions on Mobile Computing 2025  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10989755/){.md-button}
 
 - **Ditto: A Flexible Transmission Control Mechanism for Diverse User Demands and Network Conditions**  
