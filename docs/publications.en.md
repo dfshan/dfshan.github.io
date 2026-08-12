@@ -28,12 +28,14 @@ USENIX NSDI 2026
 [:fontawesome-regular-file-pdf: PDF](https://www.usenix.org/system/files/nsdi26-jiang.pdf){.md-button}
 
 - **REAL: Emulating Control Plane at Simulator's Cost**  
-Ze Xia, Hao Li, Jinyu Fu, Xin Wan, Yihan Dang, <u>Danfeng Shan</u>, Li Chen, and Peng Zhang  
+Ze Xia, Hao Li, Jinyu Fu, Xin Wan, Yihan Dang, <u>Danfeng Shan</u>, Li Chen, Peng Zhang  
 USENIX NSDI 2026  
 [:fontawesome-regular-file-pdf: PDF](https://www.usenix.org/system/files/nsdi26-xia.pdf){.md-button}
+[:octicons-file-code-16: Code](https://github.com/ants-xjtu/REAL-artifact-evaluation){.md-button}  
+<font color="#E90000">:material-certificate: Community Award</font>
 
 - **Credix: A Credit-Driven Distributed Buffer Management for Large-Scale Switching Chips**  
-Xu Wang, Yang Zhang, <u>Danfeng Shan</u>, and Fengyuan Ren  
+Xu Wang, Yang Zhang, <u>Danfeng Shan</u>, Fengyuan Ren  
 DAC 2026  
 
 - **Fast and Accurate Software Traffic Shaping With Inter-Flow Batching**  
@@ -62,14 +64,16 @@ IEEE Transactions on Mobile Computing 2025
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10989755/){.md-button}
 
 - **Ditto: A Flexible Transmission Control Mechanism for Diverse User Demands and Network Conditions**  
-Qingnan Wang, Jinnuo Du, Fangzhou Chen and <u>Danfeng Shan*</u>  
+Qingnan Wang, Jinnuo Du, Fangzhou Chen, <u>Danfeng Shan*</u>  
 ICA3PP 2025  
 [:fontawesome-regular-file-pdf: PDF](https://link.springer.com/chapter/10.1007/978-981-95-8408-6_26){.md-button}
+[:octicons-file-code-16: Code](https://gitee.com/polynet-trans/Ditto){.md-button}
 
 - **Adaptive Video Streaming Based on Transport Layer Information**  
 Fangzhou Chen, Qingnan Wang, <u>Danfeng Shan*</u>  
 Journal of Computer Research and Development  
 [:fontawesome-regular-file-pdf: PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440909.pdf){.md-button}
+[:octicons-file-code-16: Code](https://gitee.com/polynet-trans/Prophet){.md-button}
 
 - **Bandwidth Prediction Within Playback-Time of Buffer Duration Based on Frame-Level Stable Segment for Live Streaming**  
 Jialiang Chen, Xianshi Su, Wanchun Jiang, <u>Danfeng Shan</u>  
@@ -157,6 +161,7 @@ Journal of Network and Computer Applications 2021
 Hao Li, Changhao Wu, Guangda Sun, Peng Zhang, <u>Danfeng Shan</u>, Tian Pan, Chengchen Hu  
 USENIX NSDI 2021  
 [:fontawesome-regular-file-pdf: PDF](https://www.usenix.org/system/files/nsdi21-li.pdf){.md-button}
+[:octicons-file-code-16: Code](https://github.com/ants-xjtu/rubik){.md-button}
 
 
 ### 2020
