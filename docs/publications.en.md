@@ -14,7 +14,7 @@ USENIX NSDI 2027 (to appear)
 ### 2026
 - **Revisiting Preemptive Buffer Management for Modern Datacenter Switch Chips**  
 <u>Danfeng Shan</u>, Jinchao Ma, Jinyu Wang, Yunguang Li, Yuxuan Li, Zeyu Liang, Zicheng Xu, Hao Li, Zhenxing Zhang, Nan Li, Wanchun Jiang, Fengyuan Ren  
-IEEE Transactions on Computers  
+IEEE Transactions on Computers, 2026  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11596554){.md-button}
 [:octicons-file-code-16: Code](https://github.com/ants-xjtu/Occamy){.md-button}
 
@@ -40,14 +40,20 @@ DAC 2026
 
 - **Fast and Accurate Software Traffic Shaping With Inter-Flow Batching**  
 <u>Danfeng Shan</u>, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren  
-IEEE Transactions on Networking 2026  
+IEEE Transactions on Networking, 2026  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11217924/){.md-button}
 [:octicons-file-code-16: Code](https://github.com/ants-xjtu/FlowBundler){.md-button}
 
 - **Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks**  
 <u>Danfeng Shan</u>, Jinchao Ma, Yunguang Li, Boxuan Hu, Tong Zhang, Yazhe Tang, Hao Li, Jinyu Wang, Peng Zhang  
-IEEE Transactions on Networking 2026  
+IEEE Transactions on Networking, 2026  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/11131478){.md-button}
+
+- **Adaptive Video Streaming Based on Transport Layer Information**  
+Fangzhou Chen, Qingnan Wang, <u>Danfeng Shan*</u>  
+Journal of Computer Research and Development, 2026  
+[:fontawesome-regular-file-pdf: PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440909.pdf){.md-button}
+[:octicons-file-code-16: Code](https://gitee.com/polynet-trans/Prophet){.md-button}
 
 
 ### 2025
@@ -60,7 +66,7 @@ EuroSys 2025
 
 - **Teaching to Fish Rather Than Giving a Fish: The Concentrator Method of Teaching Classic Congestion Control With Learning-Based Module**  
 Haoyang Li, Wanchun Jiang\*, Jie Wang, Ying Wang, Jiawei Huang, <u>Danfeng Shan\*</u>, Jianxin Wang  
-IEEE Transactions on Mobile Computing 2025  
+IEEE Transactions on Mobile Computing, 2025  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10989755/){.md-button}
 
 - **Ditto: A Flexible Transmission Control Mechanism for Diverse User Demands and Network Conditions**  
@@ -68,12 +74,6 @@ Qingnan Wang, Jinnuo Du, Fangzhou Chen, <u>Danfeng Shan*</u>
 ICA3PP 2025  
 [:fontawesome-regular-file-pdf: PDF](https://link.springer.com/chapter/10.1007/978-981-95-8408-6_26){.md-button}
 [:octicons-file-code-16: Code](https://gitee.com/polynet-trans/Ditto){.md-button}
-
-- **Adaptive Video Streaming Based on Transport Layer Information**  
-Fangzhou Chen, Qingnan Wang, <u>Danfeng Shan*</u>  
-Journal of Computer Research and Development  
-[:fontawesome-regular-file-pdf: PDF](https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440909.pdf){.md-button}
-[:octicons-file-code-16: Code](https://gitee.com/polynet-trans/Prophet){.md-button}
 
 - **Bandwidth Prediction Within Playback-Time of Buffer Duration Based on Frame-Level Stable Segment for Live Streaming**  
 Jialiang Chen, Xianshi Su, Wanchun Jiang, <u>Danfeng Shan</u>  
@@ -88,17 +88,17 @@ AAAI 2025
 ### 2024
 - **Enforcing Fairness in the Traffic Policer Among Heterogeneous Congestion Control Algorithms**  
 <u>Danfeng Shan</u>, Linbing Jiang, Peng Zhang, Wanchun Jiang, Hao Li, Yazhe Tang, Fengyuan Ren  
-IEEE/ACM Transactions on Networking 2024  
+IEEE/ACM Transactions on Networking, 2024  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/document/10154587){.md-button}
 
 - **Improvement of Copa: Behaviors and Friendliness of Delay-Based Congestion Control Algorithm**  
 Wanchun Jiang, Haoyang Li, Jia Wu, Zheyuan Liu, Jiawei Huang, <u>Danfeng Shan</u>, Jianxin Wang  
-IEEE/ACM Transactions on Networking 2023  
+IEEE/ACM Transactions on Networking, 2023  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10163771){.md-button}
 
 - **Programming Network Stack for Physical Middleboxes and Virtualized Network Functions**  
 Hao Li, Yihan Dang, Guangda Sun, Changhao Wu, Peng Zhang, <u>Danfeng Shan</u>, Tian Pan, Chengchen Hu  
-IEEE/ACM Transactions on Networking 2023  
+IEEE/ACM Transactions on Networking, 2023  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/10273850){.md-button}
 
 
@@ -149,7 +149,7 @@ IEEE INFOCOM 2021
 
 - **Compiling Cross-Language Network Programs Into Hybrid Data Plane**  
 Hao Li, Peng Zhang, Guangda Sun, Wanyue Cao, Chengchen Hu, <u>Danfeng Shan</u>, Tian Pan, Qiang Fu  
-IEEE/ACM Transactions on Networking 2021  
+IEEE/ACM Transactions on Networking, 2021  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/9648264){.md-button}
 
 - **RICH: Strategy-proof and Efficient Coflow Scheduling in Non-cooperative Environments**  
@@ -167,7 +167,7 @@ USENIX NSDI 2021
 ### 2020
 - **Observing and Mitigating Micro-Burst Traffic in Data Center Networks**  
 <u>Danfeng Shan</u>, Fengyuan Ren, Peng Cheng, Ran Shu, Chuanxiong Guo  
-IEEE/ACM Transactions on Networking 2020  
+IEEE/ACM Transactions on Networking, 2020  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/8930612){.md-button}
 
 - **A Modular Compiler for Network Programming Languages**  
@@ -189,7 +189,7 @@ ACM APNet 2020
 ### 2018
 - **ECN Marking with Micro-burst Traffic: Problem, Analysis, and Improvement**  
 <u>Danfeng Shan</u>, Fengyuan Ren  
-IEEE/ACM Transactions on Networking 2018  
+IEEE/ACM Transactions on Networking, 2018  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/8372948){.md-button}
 [:octicons-file-code-16: Code](https://github.com/dfshan/dpdk-switch/tree/cedm){.md-button}
 
@@ -226,7 +226,7 @@ IEEE INFOCOM 2017
 
 - **Analyzing and Enhancing Dynamic Threshold Policy of Data Center Switches**  
 <u>Danfeng Shan</u>, Wanchun Jiang, Fengyuan Ren  
-IEEE Transactions on Parallel and Distributed Systems 2017  
+IEEE Transactions on Parallel and Distributed Systems, 2017  
 [:fontawesome-regular-file-pdf: PDF](https://ieeexplore.ieee.org/abstract/document/7859368){.md-button}
 [:octicons-file-code-16: Code](https://github.com/dfshan/dpdk-switch){.md-button}
 
