@@ -32,6 +32,10 @@ Ze Xia, Hao Li, Jinyu Fu, Xin Wan, Yihan Dang, <u>Danfeng Shan</u>, Li Chen, and
 USENIX NSDI 2026  
 [:fontawesome-regular-file-pdf: PDF](https://www.usenix.org/system/files/nsdi26-xia.pdf){.md-button}
 
+- **Credix: A Credit-Driven Distributed Buffer Management for Large-Scale Switching Chips**  
+Xu Wang, Yang Zhang, <u>Danfeng Shan</u>, and Fengyuan Ren  
+DAC 2026  
+
 - **Fast and Accurate Software Traffic Shaping With Inter-Flow Batching**  
 <u>Danfeng Shan</u>, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren  
 IEEE Transactions on Networking 2026  

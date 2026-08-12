@@ -26,6 +26,10 @@ Wanchun Jiang, Haoyang Li, Kai Wang, Yujie Hu, Xiao Han, <u>Danfeng Shan\*</u>, 
 USENIX NSDI 2026  
 [:fontawesome-regular-file-pdf: PDF](https://www.usenix.org/system/files/nsdi26-jiang.pdf){.md-button}
 
+- **Credix: A Credit-Driven Distributed Buffer Management for Large-Scale Switching Chips**  
+Xu Wang, Yang Zhang, <u>Danfeng Shan</u>, and Fengyuan Ren  
+DAC 2026  
+
 - **REAL: Emulating Control Plane at Simulator's Cost**  
 Ze Xia, Hao Li, Jinyu Fu, Xin Wan, Yihan Dang, <u>Danfeng Shan</u>, Li Chen, and Peng Zhang  
 USENIX NSDI 2026  
